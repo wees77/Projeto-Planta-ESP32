@@ -1,0 +1,20 @@
+## Sensor de Umidade do Solo com ESP32 e LED
+# Descrição
+
+Este projeto utiliza um ESP32, um sensor de umidade do solo e um LED para monitorar a umidade do solo.
+
+O LED acende quando o solo está seco (valor acima do limiar definido).
+
+O Monitor Serial exibe o valor lido pelo sensor e indica se o solo está seco ou úmido.
+
+Componentes Necessários
+
+* 1 × ESP32
+
+* 1 × Sensor de umidade do solo (analógico)
+
+* 1 × LED (recomendado vermelho ou amarelo)
+
+* 1 × Resistor de 220 Ω ou 330 Ω
+
+* Fios jumper
